@@ -9,6 +9,7 @@ git clone https://github.com/fkigawa/hackathon-frontend.git
 2. Run the following commands:
 
 ```
+cd hackathon-frontend
 npm install --save 
 npm update
 npm start
